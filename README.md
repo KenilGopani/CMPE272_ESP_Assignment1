@@ -1,8 +1,8 @@
 # CMPE272: Enterprise Software Platforms
-## Assignment 1: Hello World Microservices Application
-## Author: Kenil G Gopani
-## SJSU ID: 017992624
-## Guidance by: Prof. Rakesh Ranjan
+#### Assignment 1: Hello World Microservices Application
+#### Author: Kenil G Gopani
+#### SJSU ID: 017992624
+#### Guidance by: Prof. Rakesh Ranjan
 # Microservices with Spring Boot, Docker, and Kubernetes
 
 ## Prerequisites
